@@ -25,6 +25,7 @@ then
                     echo "Erreur à la création de l'utilisateur $user"
 
                 fi
+        fi
                     
 else
     echo "Il manque les noms d'utilisateurs en argument - fin de sript"
