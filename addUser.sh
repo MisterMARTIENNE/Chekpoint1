@@ -23,9 +23,11 @@ then
                 #si non message d'erreur
                 else
                     echo "Erreur à la création de l'utilisateur $user"
-else
 
-echo "Il manque les noms d'utilisateurs en argument - fin de sript"
+                fi
+                    
+else
+    echo "Il manque les noms d'utilisateurs en argument - fin de sript"
 
 fi
 
